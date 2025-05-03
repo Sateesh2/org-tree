@@ -18,7 +18,7 @@ A React component library for rendering organizational tree structures.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Sateesh2/org-tree.git]
+git clone https://github.com/Sateesh2/org-tree.git
 cd org-tree
 
 # Install dependencies
